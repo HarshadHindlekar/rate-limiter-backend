@@ -80,7 +80,6 @@ const getViolatingPhoneNumbers = async (req, res) => {
     }
   };
   
-  
 module.exports = {
   getSMSUsageStatistics,
   getViolatingPhoneNumbers
