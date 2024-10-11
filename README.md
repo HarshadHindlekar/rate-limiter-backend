@@ -1,6 +1,9 @@
 # SMS API Rate Limiter
 
-This project implements an API rate limiter for SMS APIs, where clients are limited to a certain number of SMS requests per minute and per day.
+This project implements three API,s 
+1.  rate limiter for SMS APIs, where clients are limited to a certain number of SMS requests per minute and per day.
+2. SMS Usage Statistics, where dashboard user can see a perticular numbers requests per day and per minute and messages
+3. Violating PhoneNumbers, where dashboard user can see all users phone numbers who violating the rate limits.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,13 +19,14 @@ This project implements an API rate limiter for SMS APIs, where clients are limi
 ## Overview
 
 This project includes:
-- **API Rate Limiting** for a public-facing SMS API using Node.js and Redis.
+- **API Rate Limiting, Violating PhoneNumbers, SMS Usage Statistics** for a public-facing SMS API using Node.js and Redis.
 
 Clients identified by IP address and phone number are restricted to sending:
 - A maximum of **3 SMS requests per minute**.
 - A maximum of **10 SMS requests per day**.
 
 If a client exceeds the limit, a `429 Too Many Requests` response is returned with a `Retry-After` header specifying when they can retry.
+and another api returns data to be displayed on dashboard.
 
 ## Features
 
@@ -91,6 +95,20 @@ If a client exceeds the limit, a `429 Too Many Requests` response is returned wi
     - **Response**:
         - Success: `{"message": "SMS sent to <phoneNumber>"}`
         - Error (Rate Limit Exceeded): `{"error": "Too many requests. Try again in 1 minute."}`
+
+
+- **GET /api/sms-usage/:number**: Get details of requested number
+
+    - **Response**:
+        - Success: `{ "phoneNumber": "<number>", "minuteCount": 0, "dayCount": 0, "messages": [] }`
+        - Error (Rate Limit Exceeded): `{"error": "Internal Server Error"}`
+
+
+- **GET /api/violating-phone-numbers**: Get list of numbers request who violates rate limit. 
+
+    - **Response**:
+        - Success: `{"violatingPhoneNumbers": [] }`
+        - Error (Rate Limit Exceeded): `{"error": "Internal Server Error"}`
 
 ## Rate Limiting Rules
 
