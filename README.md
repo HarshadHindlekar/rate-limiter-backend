@@ -100,15 +100,24 @@ and another api returns data to be displayed on dashboard.
 - **GET /api/sms-usage/:number**: Get details of requested number
 
     - **Response**:
-        - Success: `{ "phoneNumber": "<number>", "minuteCount": 0, "dayCount": 0, "messages": [] }`
-        - Error (Rate Limit Exceeded): `{"error": "Internal Server Error"}`
+        - Success: 
+        ```json
+        { 
+            "phoneNumber": "<number>",
+            "minuteCount": 0,
+            "dayCount": 0, 
+            "messages": [] 
+        }
+        - Error: `{"error": "Internal Server Error"}`
 
 
 - **GET /api/violating-phone-numbers**: Get list of numbers request who violates rate limit. 
 
     - **Response**:
-        - Success: `{"violatingPhoneNumbers": [] }`
-        - Error (Rate Limit Exceeded): `{"error": "Internal Server Error"}`
+        - Success: 
+        ```json
+        {"violatingPhoneNumbers": [] }
+        - Error: `{"error": "Internal Server Error"}`
 
 ## Rate Limiting Rules
 
