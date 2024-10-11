@@ -1,0 +1,150 @@
+2024-10-10T15:36:02.083Z - IP: ::1, Phone: 12, Status: 200, Message: SMS sent to 12
+2024-10-10T15:36:03.817Z - IP: ::1, Phone: 12, Status: 200, Message: SMS sent to 12
+2024-10-10T15:36:05.093Z - IP: ::1, Phone: 12, Status: 200, Message: SMS sent to 12
+2024-10-10T15:36:06.097Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:36:46.106Z - IP: null, Phone: 12, Status: 500, Message: Error fetching SMS usage statistics
+2024-10-10T15:36:48.299Z - IP: null, Phone: 12, Status: 500, Message: Error fetching SMS usage statistics
+2024-10-10T15:37:51.121Z - IP: null, Phone: 12, Status: 500, Message: Error fetching SMS usage statistics
+2024-10-10T15:38:12.190Z - IP: null, Phone: 12, Status: 500, Message: Error fetching SMS usage statistics
+2024-10-10T15:39:14.458Z - IP: null, Phone: 12, Status: 500, Message: client.lrange is not a function
+2024-10-10T15:40:19.553Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:40:20.533Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:40:21.337Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:42:25.041Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:42:25.828Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:42:26.524Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:42:27.287Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:42:28.036Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:42:28.658Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:43:52.409Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:43:53.378Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:43:54.185Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:43:55.191Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:43:56.355Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:45:19.439Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:45:30.181Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:51:51.523Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:51:52.604Z - IP: ::1, Phone: 12, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:53:05.933Z - IP: ::1, Phone: 123, Status: 200, Message: SMS sent to 123
+2024-10-10T15:53:07.550Z - IP: ::1, Phone: 123, Status: 200, Message: SMS sent to 123
+2024-10-10T15:53:08.547Z - IP: ::1, Phone: 123, Status: 200, Message: SMS sent to 123
+2024-10-10T15:53:09.749Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:26.821Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:27.936Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:29.153Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:39.587Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:41.544Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:42.537Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:53:43.264Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:56:22.828Z - IP: ::1, Phone: 123, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T15:56:36.897Z - IP: ::1, Phone: 1234, Status: 200, Message: SMS sent to 1234
+2024-10-10T15:56:38.916Z - IP: ::1, Phone: 1234, Status: 200, Message: SMS sent to 1234
+2024-10-10T15:56:40.212Z - IP: ::1, Phone: 1234, Status: 200, Message: SMS sent to 1234
+2024-10-10T15:56:41.863Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:04.910Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:05.769Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:17.140Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:17.993Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:24.910Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:25.721Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:26.466Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T15:57:27.288Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:16:28.940Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T16:16:29.903Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T16:16:30.910Z - IP: ::1, Phone: 1234, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-10T16:32:02.506Z - IP: ::1, Phone: 12345, Status: 200, Message: SMS sent to 12345
+2024-10-10T16:32:16.334Z - IP: ::1, Phone: 12345, Status: 200, Message: SMS sent to 12345
+2024-10-10T16:32:17.258Z - IP: ::1, Phone: 12345, Status: 200, Message: SMS sent to 12345
+2024-10-10T16:32:18.171Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:32:18.969Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:32:19.835Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:32:35.491Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:01.908Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:02.585Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:03.254Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:03.974Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:04.615Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:05.856Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:07.573Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:08.752Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:11.053Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:12.608Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:22.110Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:23.818Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:25.205Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:28.303Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:30.378Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:33:32.206Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:11.669Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:12.851Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:13.881Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:15.014Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:15.941Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:16.819Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:17.558Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:18.300Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:18.990Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:19.694Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:20.355Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:34:41.298Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:20.158Z - IP: ::1, Phone: 123456, Status: 200, Message: SMS sent to 123456
+2024-10-10T16:49:29.116Z - IP: ::1, Phone: 123456, Status: 200, Message: SMS sent to 123456
+2024-10-10T16:49:29.744Z - IP: ::1, Phone: 123456, Status: 200, Message: SMS sent to 123456
+2024-10-10T16:49:30.729Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:31.961Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:32.591Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:33.040Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:33.439Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:33.863Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:34.290Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:34.495Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:34.679Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:35.191Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:49:35.408Z - IP: ::1, Phone: 123456, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-10T16:51:52.457Z - IP: ::1, Phone: 12345, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-11T02:17:55.989Z - IP: ::1, Phone: 43, Status: 200, Message: SMS sent to 43
+2024-10-11T02:18:01.299Z - IP: ::1, Phone: 43, Status: 200, Message: SMS sent to 43
+2024-10-11T02:18:02.168Z - IP: ::1, Phone: 43, Status: 200, Message: SMS sent to 43
+2024-10-11T02:18:03.011Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:04.023Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:04.690Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:04.993Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:05.312Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:05.491Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:05.649Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:05.824Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:06.219Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:06.461Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:06.649Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:06.824Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:06.994Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:07.337Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:07.920Z - IP: ::1, Phone: 43, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:18:35.299Z - IP: ::1, Phone: 433, Status: 200, Message: SMS sent to 433
+2024-10-11T02:18:39.361Z - IP: ::1, Phone: 433, Status: 200, Message: SMS sent to 433
+2024-10-11T02:18:39.842Z - IP: ::1, Phone: 433, Status: 200, Message: SMS sent to 433
+2024-10-11T02:18:40.516Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:22:25.118Z - IP: ::1, Phone: 433, Status: 200, Message: SMS sent to 433
+2024-10-11T02:22:28.320Z - IP: ::1, Phone: 433, Status: 200, Message: SMS sent to 433
+2024-10-11T02:22:29.153Z - IP: ::1, Phone: 433, Status: 200, Message: SMS sent to 433
+2024-10-11T02:22:29.824Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:22:35.698Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:22:47.834Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:25:08.907Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-11T02:25:10.638Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-11T02:25:11.622Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Day limit exceeded
+2024-10-11T02:25:12.190Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:25:12.646Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:25:12.944Z - IP: ::1, Phone: 433, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:29:13.776Z - IP: ::1, Phone: 123432, Status: 200, Message: SMS sent to 123432
+2024-10-11T02:29:19.671Z - IP: ::1, Phone: 123432, Status: 200, Message: SMS sent to 123432
+2024-10-11T02:29:20.285Z - IP: ::1, Phone: 123432, Status: 200, Message: SMS sent to 123432
+2024-10-11T02:29:20.967Z - IP: ::1, Phone: 123432, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:29:21.557Z - IP: ::1, Phone: 123432, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:29:21.869Z - IP: ::1, Phone: 123432, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:29:22.070Z - IP: ::1, Phone: 123432, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:35:55.663Z - IP: ::1, Phone: 122, Status: 200, Message: SMS sent to 122
+2024-10-11T02:36:02.177Z - IP: ::1, Phone: 122, Status: 200, Message: SMS sent to 122
+2024-10-11T02:36:02.591Z - IP: ::1, Phone: 122, Status: 200, Message: SMS sent to 122
+2024-10-11T02:36:02.812Z - IP: ::1, Phone: 122, Status: 429, Message: Rate Limit Violation: Minute limit exceeded
+2024-10-11T02:36:02.988Z - IP: ::1, Phone: 122, Status: 429, Message: Rate Limit Violation: Minute limit exceeded

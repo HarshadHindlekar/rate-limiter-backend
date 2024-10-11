@@ -1,4 +1,4 @@
-const logMessage = require('../middleware/Logging')
+const logMessage = require('../logs/Logging')
 
 const getData = (req, res) => {
     const { phoneNumber } = req.body;
